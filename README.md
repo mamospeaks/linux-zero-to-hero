@@ -5,17 +5,17 @@ linux Commands That Every DevOps Engineer Should Know
 As a DevOps engineer, mastering certain Linux commands is essential for efficient system administration, automation, and troubleshooting. Here are some crucial Linux commands that every DevOps engineer should know:
 
 <b>1. File and Directory Management</b><br/>
-ls: List files and directories.<br/>
-cd: Change the current directory.<br/>
-pwd: Print the current working directory.<br/>
-mkdir: Create a new directory.<br/>
-rm: Remove files and directories.<br/>
-cp: Copy files and directories.<br/>
-mv: Move or rename files and directories.<br/>
-find: Search for files and directories.<br/>
-chmod: Change file permissions.<br/>
-chown: Change file ownership.<br/>
-chgrp: Change file group ownership.<br/>
+<code>ls: </code>List files and directories.<br/>
+<code>cd: </code>Change the current directory.<br/>
+<code>pwd: </code>Print the current working directory.<br/>
+<code>mkdir: </code>Create a new directory.<br/>
+<code>rm: </code>Remove files and directories.<br/>
+<code>cp: </code>Copy files and directories.<br/>
+<code>mv: </code>Move or rename files and directories.<br/>
+<code>find: </code>Search for files and directories.<br/>
+<code>chmod: </code>Change file permissions.<br/>
+<code>chown: </code>Change file ownership.<br/>
+<code>chgrp: </code>Change file group ownership.<br/>
 <br/>
 
 <b>2. Text Manipulation and Viewing</b><br/>
